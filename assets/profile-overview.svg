@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Atika Akhtar profile overview</title><desc id="desc">Profile overview showing 18 public project repositories, Python-focused development, and AI interests.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B19"/><stop offset="1" stop-color="#0B1730"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A855F7"/><stop offset=".55" stop-color="#6366F1"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#C084FC"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="1197" height="297" rx="23" fill="none" stroke="url(#edge)" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="42" y="52" font-size="23" font-weight="700" fill="#F8FAFC">PROFILE OVERVIEW</text>
+ <text x="42" y="78" font-size="14" letter-spacing="1.5" fill="#94A3B8">A QUICK LOOK AT MY WORK</text>
+ <g transform="translate(35 104)">
+  <rect width="350" height="154" rx="17" fill="#0E1730" stroke="#6D28D9" stroke-opacity=".85"/>
+  <text x="25" y="39" font-size="14" letter-spacing="1.2" fill="#A5B4FC">PUBLIC PROJECT REPOSITORIES</text>
+  <text x="25" y="108" font-size="61" font-weight="700" fill="url(#accent)">18</text>
+  <text x="125" y="100" font-size="17" fill="#E2E8F0">projects</text>
+  <text x="125" y="124" font-size="13" fill="#94A3B8">excluding this profile README</text>
+ </g>
+ <g transform="translate(425 104)">
+  <rect width="350" height="154" rx="17" fill="#0E1730" stroke="#2563EB" stroke-opacity=".85"/>
+  <text x="25" y="39" font-size="14" letter-spacing="1.2" fill="#93C5FD">VERIFIED LANGUAGE FOCUS</text>
+  <rect x="25" y="61" width="300" height="13" rx="6.5" fill="#1E293B"/>
+  <rect x="25" y="61" width="245" height="13" rx="6.5" fill="#8B5CF6"/>
+  <text x="25" y="105" font-size="22" font-weight="700" fill="#F8FAFC">Python</text>
+  <text x="25" y="130" font-size="14" fill="#94A3B8">Also working with Jupyter Notebook</text>
+ </g>
+ <g transform="translate(815 104)">
+  <rect width="350" height="154" rx="17" fill="#0E1730" stroke="#0891B2" stroke-opacity=".85"/>
+  <text x="25" y="39" font-size="14" letter-spacing="1.2" fill="#67E8F9">AREAS I'M BUILDING IN</text>
+  <g font-size="14" font-weight="600">
+   <rect x="25" y="57" width="130" height="30" rx="15" fill="#312E81"/><text x="90" y="77" text-anchor="middle" fill="#EDE9FE">AGENTIC AI</text>
+   <rect x="165" y="57" width="145" height="30" rx="15" fill="#164E63"/><text x="237" y="77" text-anchor="middle" fill="#CFFAFE">RAG SYSTEMS</text>
+   <rect x="25" y="99" width="130" height="30" rx="15" fill="#4C1D95"/><text x="90" y="119" text-anchor="middle" fill="#F3E8FF">LLM APPS</text>
+   <rect x="165" y="99" width="145" height="30" rx="15" fill="#831843"/><text x="237" y="119" text-anchor="middle" fill="#FCE7F3">AI CHATBOTS</text>
+  </g>
+ </g>
+</g>
+</svg>
