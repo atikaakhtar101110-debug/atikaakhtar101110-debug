@@ -136,97 +136,6 @@ I'm **Atika Akhtar**, an AI-focused developer interested in turning modern AI re
 
 </div>
 
-## Featured Repositories
-
-<div align="center">
-
-*Selected projects — clean, clickable project cards designed to work without third-party statistics image servers.*
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤖 Multi-Agent AI System
-
-A multi-step research workflow with search, reading, report writing, and review.
-
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/multiagentaisystem)
-
-[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/multiagentaisystem)
-
-</td>
-    <td width="50%" valign="top">
-
-### 🎯 Business Lead Finder
-
-A multi-agent workflow for business discovery, website extraction, enrichment, and lead scoring.
-
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder)
-
-[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&color=0D9488)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💬 Customer Support Chatbot
-
-A knowledge-grounded chatbot API with session handling and escalation support.
-
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/chatbott)
-
-[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/chatbott?style=flat-square&color=2563EB)](https://github.com/atikaakhtar101110-debug/chatbott)
-
-</td>
-    <td width="50%" valign="top">
-
-### 📊 Social Media Report Generator
-
-A data-analysis app for campaign uploads and downloadable Excel reports.
-
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/social_media_report_generator)
-
-[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&color=D97706)](https://github.com/atikaakhtar101110-debug/social_media_report_generator)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏡 Real Estate Prediction API
-
-A FastAPI service for property-value estimates using property and location inputs.
-
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/real_estate_model)
-
-[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/real_estate_model?style=flat-square&color=DB2777)](https://github.com/atikaakhtar101110-debug/real_estate_model)
-
-</td>
-    <td width="50%" valign="top">
-
-### 📚 RAG Business Knowledge
-
-Explore the project focused on retrieval-augmented, knowledge-grounded AI.
-
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/rag-business-knowlegde)
-
-[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/rag-business-knowlegde?style=flat-square&color=7C3AED)](https://github.com/atikaakhtar101110-debug/rag-business-knowlegde)
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
-
-[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug?tab=repositories)
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -239,15 +148,40 @@ Explore the project focused on retrieval-augmented, knowledge-grounded AI.
 
 ## Repository Activity
 
-| Project | Activity |
-|---|---|
-| [Multi-Agent AI System](https://github.com/atikaakhtar101110-debug/multiagentaisystem) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/multiagentaisystem) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/multiagentaisystem) |
-| [Business Lead Finder](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&color=0D9488)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) |
-| [Customer Support Chatbot](https://github.com/atikaakhtar101110-debug/chatbott) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/chatbott?style=flat-square&color=2563EB)](https://github.com/atikaakhtar101110-debug/chatbott) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/chatbott?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/chatbott) |
-| [Social Media Report Generator](https://github.com/atikaakhtar101110-debug/social_media_report_generator) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&color=D97706)](https://github.com/atikaakhtar101110-debug/social_media_report_generator) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/social_media_report_generator) |
-| [Real Estate Model](https://github.com/atikaakhtar101110-debug/real_estate_model) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/real_estate_model?style=flat-square&color=DB2777)](https://github.com/atikaakhtar101110-debug/real_estate_model) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/real_estate_model?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/real_estate_model) |
+<div align="center">
 
-*Star counts and last-commit dates are fetched dynamically by Shields.io. If a badge is temporarily unavailable, the repository links remain available above.*
+*An at-a-glance view of project repositories, with live GitHub star counts and latest commit indicators.*
+
+</div>
+
+| Repository | Live activity |
+|---|---|
+| [E-Commerce Data Cleaning Pipeline](https://github.com/atikaakhtar101110-debug/ECommerce-Data-Cleaning-Pipeline-1k) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/ECommerce-Data-Cleaning-Pipeline-1k?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/ECommerce-Data-Cleaning-Pipeline-1k) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/ECommerce-Data-Cleaning-Pipeline-1k?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/ECommerce-Data-Cleaning-Pipeline-1k/commits) |
+| [Real Estate Model](https://github.com/atikaakhtar101110-debug/real_estate_model) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/real_estate_model?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/real_estate_model) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/real_estate_model?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/real_estate_model/commits) |
+| [Financial Risk App](https://github.com/atikaakhtar101110-debug/financial-risk-app) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/financial-risk-app?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/financial-risk-app) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/financial-risk-app?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/financial-risk-app/commits) |
+| [Credit App](https://github.com/atikaakhtar101110-debug/credit_app) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/credit_app?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/credit_app) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/credit_app?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/credit_app/commits) |
+| [Credit Loan App](https://github.com/atikaakhtar101110-debug/credit_loan_app) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/credit_loan_app?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/credit_loan_app) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/credit_loan_app?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/credit_loan_app/commits) |
+| [Credit Risk App](https://github.com/atikaakhtar101110-debug/credit_risk_app) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/credit_risk_app?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/credit_risk_app) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/credit_risk_app?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/credit_risk_app/commits) |
+| [Student Mental Health Prediction](https://github.com/atikaakhtar101110-debug/student_mental_prediction) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/student_mental_prediction?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/student_mental_prediction) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/student_mental_prediction?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/student_mental_prediction/commits) |
+| [NLP & Deep Learning](https://github.com/atikaakhtar101110-debug/NLP_DL) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/NLP_DL?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/NLP_DL) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/NLP_DL?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/NLP_DL/commits) |
+| [Emotional Intelligence](https://github.com/atikaakhtar101110-debug/Emotional_intelligence) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/Emotional_intelligence?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/Emotional_intelligence) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/Emotional_intelligence?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/Emotional_intelligence/commits) |
+| [Multi-Agent Project](https://github.com/atikaakhtar101110-debug/multiagent) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/multiagent?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/multiagent) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/multiagent?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/multiagent/commits) |
+| [Multi-Agent AI System](https://github.com/atikaakhtar101110-debug/multiagentaisystem) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/multiagentaisystem) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/multiagentaisystem/commits) |
+| [Social Media Report Generator](https://github.com/atikaakhtar101110-debug/social_media_report_generator) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/social_media_report_generator) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/social_media_report_generator/commits) |
+| [Business Lead Finder](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder/commits) |
+| [Customer Churn Analysis](https://github.com/atikaakhtar101110-debug/customer_churn) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/customer_churn?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/customer_churn) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/customer_churn?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/customer_churn/commits) |
+| [Chatbot](https://github.com/atikaakhtar101110-debug/chatbot) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/chatbot?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/chatbot) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/chatbot?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/chatbot/commits) |
+| [Customer Support Chatbot](https://github.com/atikaakhtar101110-debug/chatbott) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/chatbott?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/chatbott) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/chatbott?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/chatbott/commits) |
+| [RAG Business Knowledge](https://github.com/atikaakhtar101110-debug/rag-business-knowlegde) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/rag-business-knowlegde?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/rag-business-knowlegde) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/rag-business-knowlegde?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/rag-business-knowlegde/commits) |
+| [RAG Nimblrex](https://github.com/atikaakhtar101110-debug/rag_nimblrex) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/rag_nimblrex?style=flat-square&label=stars&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/rag_nimblrex) [![Last commit](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/rag_nimblrex?style=flat-square&label=updated&color=64748B)](https://github.com/atikaakhtar101110-debug/rag_nimblrex/commits) |
+
+<div align="center">
+
+[![Browse all repositories](https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug?tab=repositories)
+
+</div>
+
+<sub>Badges are refreshed by Shields.io and may occasionally be delayed. Repository names and links take you directly to the source projects.</sub>
 
 ---
 
