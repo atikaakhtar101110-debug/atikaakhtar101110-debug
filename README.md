@@ -140,19 +140,51 @@ I'm **Atika Akhtar**, an AI-focused developer interested in turning modern AI re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atikaakhtar101110-debug&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikaakhtar101110-debug&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+<table>
+  <tr>
+    <td bgcolor="#0d1117" align="center">
+      <a href="https://github.com/atikaakhtar101110-debug">
+        <img src="https://github-readme-stats.vercel.app/api?username=atikaakhtar101110-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="Atika's GitHub statistics"/>
+      </a>
+    </td>
+    <td bgcolor="#0d1117" align="center">
+      <a href="https://github.com/atikaakhtar101110-debug">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikaakhtar101110-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most used programming languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=atikaakhtar101110-debug&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=atikaakhtar101110-debug&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+</a>
+
+<br/>
+
+<sub>Live statistics are provided by third-party GitHub README services and may take time to refresh.</sub>
 
 </div>
 
 ## Let's Connect
 
-I'm always glad to connect with fellow developers, AI enthusiasts, and people building useful technology.
-
-- **LinkedIn:** [Atika Akhtar](https://www.linkedin.com/in/atika-akhtar-367045261/)
-- **GitHub:** [@atikaakhtar101110-debug](https://github.com/atikaakhtar101110-debug)
+<div align="center">
+  <table>
+    <tr>
+      <td bgcolor="#0d1117" align="center">
+        <h3>🤝 Let's build something meaningful.</h3>
+        <p>I'm always happy to connect with AI developers, engineers, and curious builders.</p>
+        <p>Interested in conversations around Generative AI, Agentic AI, RAG, LLM applications, and collaborative projects.</p>
+        <a href="https://www.linkedin.com/in/atika-akhtar-367045261/">
+          <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/atikaakhtar101110-debug">
+          <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
