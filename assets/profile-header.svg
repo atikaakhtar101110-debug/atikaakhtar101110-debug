@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Atika Akhtar — AI Engineer</title><desc id="desc">Neon navy and violet profile banner for an AI and Generative AI developer.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050817"/><stop offset=".55" stop-color="#0B1028"/><stop offset="1" stop-color="#071B32"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B026FF"/><stop offset=".52" stop-color="#526BFF"/><stop offset="1" stop-color="#00D4FF"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF"/><stop offset=".56" stop-color="#DCCBFF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <radialGradient id="orb"><stop stop-color="#8B5CF6" stop-opacity=".34"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+<rect x="2" y="2" width="1196" height="296" rx="26" fill="none" stroke="url(#edge)" stroke-width="2.5"/>
+<circle cx="1060" cy="60" r="230" fill="url(#orb)"/>
+<path d="M0 240 C180 180 250 300 440 230 S760 180 920 245 S1090 280 1200 205" fill="none" stroke="#6D28D9" stroke-opacity=".5" stroke-width="1.5"/>
+<path d="M0 260 C180 200 280 315 470 248 S770 205 930 265 S1100 290 1200 225" fill="none" stroke="#06B6D4" stroke-opacity=".55" stroke-width="1.5"/>
+<g opacity=".55" stroke="#6474FF" fill="none"><path d="M890 38h230M890 52h170M890 66h205"/><path d="M1045 100v110M1060 100v80M1075 100v95"/></g>
+<g transform="translate(72 72)" filter="url(#glow)"><path d="M0 15 42 0 84 15 42 30Z" fill="#8B5CF6" opacity=".9"/><path d="M0 15v48l42 22V30Z" fill="#4F46E5"/><path d="M84 15v48L42 85V30Z" fill="#06B6D4"/><path d="M42 30v55" stroke="#E9D5FF" stroke-width="2"/></g>
+<text x="72" y="190" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" fill="url(#name)">ATIKA AKHTAR</text>
+<text x="75" y="228" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="2" fill="#C4B5FD">AI ENGINEER  ·  GENERATIVE AI DEVELOPER</text>
+<text x="75" y="264" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#A5B4FC">LLMs  /  RAG  /  AGENTIC AI  /  PYTHON</text>
+<g transform="translate(915 210)"><rect width="210" height="42" rx="21" fill="#111A38" stroke="#7C3AED"/><circle cx="22" cy="21" r="5" fill="#22D3EE"/><text x="40" y="27" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#E9D5FF">BUILDING WITH AI</text></g>
+</svg>
