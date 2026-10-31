@@ -136,15 +136,72 @@ I'm **Atika Akhtar**, an AI-focused developer interested in turning modern AI re
 
 </div>
 
+## Pinned Repositories
+
+<div align="center">
+
+*Selected projects across Agentic AI, intelligent assistants, data applications, and machine learning.*
+
+<a href="https://github.com/atikaakhtar101110-debug/multiagentaisystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=multiagentaisystem&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Multi-Agent AI System repository card"/>
+</a>
+<a href="https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=Businesses_Lead_Finder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Business Lead Finder repository card"/>
+</a>
+<a href="https://github.com/atikaakhtar101110-debug/chatbott">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=chatbott&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Customer Support Chatbot repository card"/>
+</a>
+<a href="https://github.com/atikaakhtar101110-debug/social_media_report_generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=social_media_report_generator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Social Media Report Generator repository card"/>
+</a>
+<a href="https://github.com/atikaakhtar101110-debug/real_estate_model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=real_estate_model&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Real Estate Model repository card"/>
+</a>
+<a href="https://github.com/atikaakhtar101110-debug/financial-risk-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=financial-risk-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Financial Risk App repository card"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/atikaakhtar101110-debug?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
+
+</div>
+
+## Last Year's Contributions
+
+<div align="center">
+
+<a href="https://github.com/atikaakhtar101110-debug">
+  <img src="https://ghchart.rshah.org/8B5CF6/atikaakhtar101110-debug" alt="GitHub contribution calendar for the last year" width="100%"/>
+</a>
+
+<sub>Contribution calendar generated from GitHub activity. The calendar reflects GitHub's contribution rules and may update with a delay.</sub>
+
+</div>
+
+## Repository Activity
+
+<div align="center">
+
+<a href="https://github.com/atikaakhtar101110-debug">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikaakhtar101110-debug&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub repository and contribution activity graph" width="100%"/>
+</a>
+
+<sub>Activity visualization is supplied by a third-party service; availability and refresh timing may vary.</sub>
+
+</div>
+
 ## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/atikaakhtar101110-debug">
-  <img src="https://github-stats-extended.vercel.app/api?username=atikaakhtar101110-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9&cache_seconds=86400" alt="Atika's GitHub statistics" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atikaakhtar101110-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" width="49%"/>
 </a>
 <a href="https://github.com/atikaakhtar101110-debug">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=atikaakhtar101110-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&cache_seconds=86400" alt="Most used programming languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikaakhtar101110-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" width="49%"/>
 </a>
 
 <br/>
@@ -152,10 +209,6 @@ I'm **Atika Akhtar**, an AI-focused developer interested in turning modern AI re
 <a href="https://github.com/atikaakhtar101110-debug">
   <img src="https://streak-stats.demolab.com?user=atikaakhtar101110-debug&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" width="75%"/>
 </a>
-
-<br/>
-
-<sub>Dark-mode cards · Purple and cyan accents · Cached statistics</sub>
 
 </div>
 
