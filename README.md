@@ -140,28 +140,22 @@ I'm **Atika Akhtar**, an AI-focused developer interested in turning modern AI re
 
 <div align="center">
 
-<table>
-  <tr>
-    <td bgcolor="#0d1117" align="center">
-      <a href="https://github.com/atikaakhtar101110-debug">
-        <img src="https://github-readme-stats.vercel.app/api?username=atikaakhtar101110-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="Atika's GitHub statistics"/>
-      </a>
-    </td>
-    <td bgcolor="#0d1117" align="center">
-      <a href="https://github.com/atikaakhtar101110-debug">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikaakhtar101110-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most used programming languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=atikaakhtar101110-debug&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+<a href="https://github.com/atikaakhtar101110-debug">
+  <img src="https://github-stats-extended.vercel.app/api?username=atikaakhtar101110-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9&cache_seconds=86400" alt="Atika's GitHub statistics" width="49%"/>
+</a>
+<a href="https://github.com/atikaakhtar101110-debug">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=atikaakhtar101110-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&cache_seconds=86400" alt="Most used programming languages" width="49%"/>
 </a>
 
 <br/>
 
-<sub>Live statistics are provided by third-party GitHub README services and may take time to refresh.</sub>
+<a href="https://github.com/atikaakhtar101110-debug">
+  <img src="https://streak-stats.demolab.com?user=atikaakhtar101110-debug&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" width="75%"/>
+</a>
+
+<br/>
+
+<sub>Dark-mode cards · Purple and cyan accents · Cached statistics</sub>
 
 </div>
 
