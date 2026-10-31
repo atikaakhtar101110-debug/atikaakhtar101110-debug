@@ -136,81 +136,120 @@ I'm **Atika Akhtar**, an AI-focused developer interested in turning modern AI re
 
 </div>
 
-## Pinned Repositories
+## Featured Repositories
 
 <div align="center">
 
-*Selected projects across Agentic AI, intelligent assistants, data applications, and machine learning.*
-
-<a href="https://github.com/atikaakhtar101110-debug/multiagentaisystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=multiagentaisystem&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Multi-Agent AI System repository card"/>
-</a>
-<a href="https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=Businesses_Lead_Finder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Business Lead Finder repository card"/>
-</a>
-<a href="https://github.com/atikaakhtar101110-debug/chatbott">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=chatbott&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Customer Support Chatbot repository card"/>
-</a>
-<a href="https://github.com/atikaakhtar101110-debug/social_media_report_generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=social_media_report_generator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Social Media Report Generator repository card"/>
-</a>
-<a href="https://github.com/atikaakhtar101110-debug/real_estate_model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=real_estate_model&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Real Estate Model repository card"/>
-</a>
-<a href="https://github.com/atikaakhtar101110-debug/financial-risk-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikaakhtar101110-debug&repo=financial-risk-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" width="49%" alt="Financial Risk App repository card"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/atikaakhtar101110-debug?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
+*Selected projects — clean, clickable project cards designed to work without third-party statistics image servers.*
 
 </div>
 
-## Last Year's Contributions
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 Multi-Agent AI System
+
+A multi-step research workflow with search, reading, report writing, and review.
+
+[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/multiagentaisystem)
+
+[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/multiagentaisystem)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🎯 Business Lead Finder
+
+A multi-agent workflow for business discovery, website extraction, enrichment, and lead scoring.
+
+[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder)
+
+[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&color=0D9488)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 💬 Customer Support Chatbot
+
+A knowledge-grounded chatbot API with session handling and escalation support.
+
+[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/chatbott)
+
+[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/chatbott?style=flat-square&color=2563EB)](https://github.com/atikaakhtar101110-debug/chatbott)
+
+</td>
+    <td width="50%" valign="top">
+
+### 📊 Social Media Report Generator
+
+A data-analysis app for campaign uploads and downloadable Excel reports.
+
+[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/social_media_report_generator)
+
+[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&color=D97706)](https://github.com/atikaakhtar101110-debug/social_media_report_generator)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏡 Real Estate Prediction API
+
+A FastAPI service for property-value estimates using property and location inputs.
+
+[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/real_estate_model)
+
+[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/real_estate_model?style=flat-square&color=DB2777)](https://github.com/atikaakhtar101110-debug/real_estate_model)
+
+</td>
+    <td width="50%" valign="top">
+
+### 📚 RAG Business Knowledge
+
+Explore the project focused on retrieval-augmented, knowledge-grounded AI.
+
+[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug/rag-business-knowlegde)
+
+[![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/rag-business-knowlegde?style=flat-square&color=7C3AED)](https://github.com/atikaakhtar101110-debug/rag-business-knowlegde)
+
+</td>
+  </tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/atikaakhtar101110-debug">
-  <img src="https://ghchart.rshah.org/8B5CF6/atikaakhtar101110-debug" alt="GitHub contribution calendar for the last year" width="100%"/>
-</a>
+[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atikaakhtar101110-debug?tab=repositories)
 
-<sub>Contribution calendar generated from GitHub activity. The calendar reflects GitHub's contribution rules and may update with a delay.</sub>
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Contribution calendar](https://ghchart.rshah.org/8B5CF6/atikaakhtar101110-debug)](https://github.com/atikaakhtar101110-debug)
+
+*Contribution history is generated from GitHub's public contribution data. GitHub also displays the official contribution graph directly on your profile.*
 
 </div>
 
 ## Repository Activity
 
-<div align="center">
+| Project | Activity |
+|---|---|
+| [Multi-Agent AI System](https://github.com/atikaakhtar101110-debug/multiagentaisystem) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&color=8B5CF6)](https://github.com/atikaakhtar101110-debug/multiagentaisystem) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/multiagentaisystem?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/multiagentaisystem) |
+| [Business Lead Finder](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&color=0D9488)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/Businesses_Lead_Finder?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) |
+| [Customer Support Chatbot](https://github.com/atikaakhtar101110-debug/chatbott) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/chatbott?style=flat-square&color=2563EB)](https://github.com/atikaakhtar101110-debug/chatbott) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/chatbott?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/chatbott) |
+| [Social Media Report Generator](https://github.com/atikaakhtar101110-debug/social_media_report_generator) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&color=D97706)](https://github.com/atikaakhtar101110-debug/social_media_report_generator) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/social_media_report_generator?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/social_media_report_generator) |
+| [Real Estate Model](https://github.com/atikaakhtar101110-debug/real_estate_model) | [![Stars](https://img.shields.io/github/stars/atikaakhtar101110-debug/real_estate_model?style=flat-square&color=DB2777)](https://github.com/atikaakhtar101110-debug/real_estate_model) [![Updated](https://img.shields.io/github/last-commit/atikaakhtar101110-debug/real_estate_model?style=flat-square&color=64748B)](https://github.com/atikaakhtar101110-debug/real_estate_model) |
 
-<a href="https://github.com/atikaakhtar101110-debug">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikaakhtar101110-debug&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub repository and contribution activity graph" width="100%"/>
-</a>
+*Star counts and last-commit dates are fetched dynamically by Shields.io. If a badge is temporarily unavailable, the repository links remain available above.*
 
-<sub>Activity visualization is supplied by a third-party service; availability and refresh timing may vary.</sub>
-
-</div>
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/atikaakhtar101110-debug">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikaakhtar101110-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" width="49%"/>
-</a>
-<a href="https://github.com/atikaakhtar101110-debug">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikaakhtar101110-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" width="49%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/atikaakhtar101110-debug">
-  <img src="https://streak-stats.demolab.com?user=atikaakhtar101110-debug&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" width="75%"/>
-</a>
-
-</div>
+---
 
 ## Let's Connect
 
