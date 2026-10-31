@@ -45,19 +45,81 @@ I'm **Atika Akhtar**, an AI-focused developer interested in turning modern AI re
 
 ## Featured Work
 
-A selection of project areas represented across my repositories:
+<div align="center">
 
-| Project | What it explores |
-|---|---|
-| [Multi-Agent AI System](https://github.com/atikaakhtar101110-debug/multiagentaisystem) | Coordinated agents for research, content extraction, report writing, and review |
-| [Business Lead Finder](https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder) | AI-assisted business discovery, enrichment, and lead qualification |
-| [RAG Business Knowledge](https://github.com/atikaakhtar101110-debug/rag-business_knowlegde) | Retrieval-augmented knowledge assistant concepts |
-| [RAG Nimblrex](https://github.com/atikaakhtar101110-debug/rag_nimblrex) | RAG-focused application project |
-| [Customer Support Chatbot](https://github.com/atikaakhtar101110-debug/chatbott) | Knowledge-grounded chatbot API with escalation support |
-| [Social Media Report Generator](https://github.com/atikaakhtar101110-debug/social_media_report_generator) | Campaign data analysis and downloadable reporting |
-| [Real Estate Model](https://github.com/atikaakhtar101110-debug/real_estate_model) | Property value prediction API |
+### Selected AI & Machine Learning Projects
 
-*Explore the repositories for implementation details, setup instructions, and project status.*
+*Explore a few projects across agentic workflows, knowledge retrieval, intelligent assistants, and applied machine learning.*
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Multi-Agent Research System</h3>
+      <a href="https://github.com/atikaakhtar101110-debug/multiagentaisystem">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+      </a>
+      <p>Multi-step research workflow coordinating search, page reading, report writing, and critic review.</p>
+      <p><sub>Agentic AI · LangChain · Streamlit</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Business Lead Finder</h3>
+      <a href="https://github.com/atikaakhtar101110-debug/Businesses_Lead_Finder">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+      </a>
+      <p>Multi-agent pipeline for business discovery, website extraction, lead enrichment, qualification, and scoring.</p>
+      <p><sub>AI Agents · Python · Streamlit</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Customer Support Chatbot</h3>
+      <a href="https://github.com/atikaakhtar101110-debug/chatbott">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+      </a>
+      <p>Knowledge-grounded support assistant with semantic relevance ranking, conversation sessions, and human escalation flags.</p>
+      <p><sub>LLM · TF-IDF · FastAPI</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Social Media Report Generator</h3>
+      <a href="https://github.com/atikaakhtar101110-debug/social_media_report_generator">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-D97706?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+      </a>
+      <p>Upload campaign data, run an analysis workflow, and generate a downloadable Excel report.</p>
+      <p><sub>Data Analysis · Python · Streamlit</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 Real Estate Prediction API</h3>
+      <a href="https://github.com/atikaakhtar101110-debug/real_estate_model">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+      </a>
+      <p>FastAPI service for property value estimates using property type, location, and floor area inputs.</p>
+      <p><sub>Machine Learning · FastAPI · scikit-learn</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 RAG Projects</h3>
+      <a href="https://github.com/atikaakhtar101110-debug/rag-business-knowlegde">
+        <img src="https://img.shields.io/badge/BUSINESS_KNOWLEDGE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Business Knowledge"/>
+      </a>
+      <a href="https://github.com/atikaakhtar101110-debug/rag_nimblrex">
+        <img src="https://img.shields.io/badge/RAG_NIMBLREX-475569?style=for-the-badge&logo=github&logoColor=white" alt="RAG Nimblrex"/>
+      </a>
+      <p>Explore my work and experiments around retrieval-augmented generation and knowledge-grounded AI.</p>
+      <p><sub>RAG · LLM Applications · Knowledge Retrieval</sub></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+**More projects:** [Browse all repositories](https://github.com/atikaakhtar101110-debug?tab=repositories)
+
+</div>
+
+---
 
 ## Tech & Tools
 
